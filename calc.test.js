@@ -11,5 +11,5 @@ test("Sum returns 3 arguments 1 and 2", () => {
 });
 
 test("Sub returns 3 arguments 3 and 2", () => {
-    expect(calc.sum(3, 2)).toBe(1);
+    expect(calc.sub(3, 2)).toBe(1);
 });
